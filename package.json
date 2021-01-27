@@ -1,0 +1,19 @@
+{
+  "name": "appoloserver",
+  "version": "1.0.0",
+  "description": "learning graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ali Ahsan",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource": "^0.7.3",
+    "apollo-server": "^2.19.2",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.7"
+  }
+}
